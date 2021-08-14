@@ -1,2 +1,7 @@
 # Aina Design Corp.
-Web Domain Assets
+
+## Web Domain Memberships
+
+## Certifications
+
+## Qualifications
