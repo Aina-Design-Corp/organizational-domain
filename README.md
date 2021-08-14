@@ -2,7 +2,7 @@
 
 ### Web Domain Memberships
 - Inustrial Intenet Consortium
-- Tracealliance
+- TraceAlliance
 ### Certifications
 - Food Safety and Preventative Controls
 ### Qualifications
