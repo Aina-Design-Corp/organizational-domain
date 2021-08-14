@@ -1,7 +1,7 @@
 # Aina Design Corp.
 
-## Web Domain Memberships
+### Web Domain Memberships
 
-## Certifications
+### Certifications
 
-## Qualifications
+### Qualifications
