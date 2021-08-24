@@ -1,7 +1,7 @@
 # Aina Design Corp.
 
 ### Web Domain Memberships
-- Inustrial Intenet Consortium
+- Industrial Internet Consortium
 - TraceAlliance
 ### Certifications
 - Food Safety and Preventative Controls
