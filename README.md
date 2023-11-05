@@ -1,6 +1,6 @@
 # Aina Design Corp.
 
-### Lerning Project Subscriptions
+### Lerning Project Development
 - TraceAlliance : Aina Design Corp.
 
 ### Qualifications
