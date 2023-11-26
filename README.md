@@ -1,6 +1,6 @@
 # Aina Design Corp.
 
-### Lerning Project Development
+### Learning Project Design
 - TraceAlliance : Aina Design Corp.
 
 ### Qualifications
