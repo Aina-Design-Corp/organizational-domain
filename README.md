@@ -1,6 +1,6 @@
 # Aina Design Corp.
 
-### Learning Project Design
+### Learning Project and Exhibits Design
 - TraceAlliance : Aina Design Corp.
 
 ### Qualifications
