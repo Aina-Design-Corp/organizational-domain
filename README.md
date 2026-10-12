@@ -33,9 +33,6 @@ Enterprise account   (the pattern)       rules that bind every organization unde
 
 ### What exists today
 
-- Āina Design Corp is an organization on GitHub Free, running standalone.
-  No enterprise account exists. An Enterprise Cloud trial was exercised in
-  September and October 2026 and ended without purchase.
 - Two-factor sign-in is required for every member; default member access is
   read, and write access is granted deliberately, by team.
 - Public repositories carry branch protection with a required validation
@@ -45,11 +42,7 @@ Enterprise account   (the pattern)       rules that bind every organization unde
 
 ### The enterprise, when a program needs it
 
-- **Licensing.** Āina Design Corp qualifies for GitHub for Nonprofits, which
-  offers a verified nonprofit either the Team plan at no charge or a 25
-  percent discount on Enterprise Cloud. The enterprise is purchased when an
-  adopting program needs its own organization and its own directory, and not
-  before.
+- **Licensing.** Āina Design Corp is registered with GitHub for Nonprofits.
 - **Kind of enterprise.** An enterprise with personal accounts: the kind that
   can invite this existing organization and lets each organization bind its
   own identity provider. The other kind, Enterprise Managed Users, cannot add
