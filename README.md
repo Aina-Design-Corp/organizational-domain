@@ -14,7 +14,7 @@ any government agency.
 GitHub has three layers, and one rule about ownership runs through them:
 
 ```
-Enterprise account   (the pattern)       rules that bind every organization under it — established when a program needs it
+Enterprise account   (the governing domain)       rules that bind every organization under it — established when a program needs it
 └── Organization     Aina-Design-Corp    the people, teams, and repositories of one owner — live today
     └── Repository   one per project     the record, the checks that run on every change, the public pages
 ```
@@ -43,7 +43,7 @@ Enterprise account   (the pattern)       rules that bind every organization unde
 ### The enterprise, when a program needs it
 
 - **Licensing.** Āina Design Corp is registered with GitHub for Nonprofits.
-- **Kind of enterprise.** An enterprise with personal accounts: the kind that
+- **Kind of governing enterprise.** An enterprise with personal accounts: the kind that
   can invite this existing organization and lets each organization bind its
   own identity provider. The other kind, Enterprise Managed Users, cannot add
   an existing organization, and its accounts cannot create public content, so
