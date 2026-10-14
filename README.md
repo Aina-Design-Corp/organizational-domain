@@ -22,7 +22,7 @@ Enterprise account   (the pattern)       rules that bind every organization unde
 - **The organization** is the unit an owner can hand over. It can be removed
   from one enterprise and invited into another with its repositories, history,
   and public pages intact.
-- **The enterprise account** is the administrative layer above organizations:
+- **Pending enterprise account Mokunet** is the administrative layer above organizations:
   policies every organization must follow, billing, a 180-day audit log that
   can be streamed to storage the adopting program controls, and GitHub's own
   compliance reports.
